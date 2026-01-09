@@ -1,6 +1,6 @@
 public class Ex9 {
     public static void main(String[] args) {
-    int luna = 14;
+    int luna = 73;
     String anotimpul;
 
     switch (luna) {
